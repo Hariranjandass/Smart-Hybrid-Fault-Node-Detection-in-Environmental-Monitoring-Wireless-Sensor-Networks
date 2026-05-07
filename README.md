@@ -1,0 +1,2 @@
+# Smart-Hybrid-Fault-Node-Detection-in-Environmental-Monitoring-Wireless-Sensor-Networks
+This project implements a **Smart Hybrid Fault Detection System** for Environmental Monitoring WSN. Three detection layers work together -rule-based node-level checks, statistical cluster-level analysis, and a trained ML classifier (Random Forest) — achieving **90.3% accuracy** vs 72.4% for traditional rule-based methods, a **+17.86% improvement**.
